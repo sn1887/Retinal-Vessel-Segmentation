@@ -40,12 +40,4 @@ This repository provides resources for retinal vessel segmentation, including da
 
 ## Note
 
-This project showcases state-of-the-art performance in retinal vessel segmentation, offering benchmark metrics for comparison with other segmentation models. For inquiries, collaborations, or further information, please contact samadnajm.sn@gmail.com
-
-
-## License
-
-This project is licensed under the Apache License.
-
----
-Feel free to customize the README further to include additional information or specific instructions for users.
+This project showcases state-of-the-art performance in retinal vessel segmentation, offering benchmark metrics for comparison with other segmentation models. 
