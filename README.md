@@ -36,7 +36,7 @@ The performance metrics of several segmentation models utilized in this project 
 
 ## Usage
 
-This repository provides resources for retinal vessel segmentation, including datasets, model implementations, and evaluation scripts. Researchers and practitioners in the field of ophthalmology and medical imaging can utilize these resources to develop and validate segmentation algorithms for retinal vessel analysis.
+This repository provides resources for retinal vessel segmentation, including datasets, model implementations, and evaluation scripts. 
 
 ## Note
 
